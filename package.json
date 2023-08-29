@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiskylord/alx-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiskylord/alx-interview/issues"
+  },
+  "homepage": "https://github.com/hiskylord/alx-interview#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
